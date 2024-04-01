@@ -10,7 +10,7 @@ The Horiseon website is designed to offer cutting-edge solutions in Search Engin
 
 ## Installation
 To set up the Horiseon website locally, follow these steps:
-1. Clone the repository to your local machine using Git:git clone https://github.com/AaronBringhurst/Module-Week-1-Challenge/blob/main/README.md
+1. Clone the repository to your local machine using Git:git clone https://github.com/AaronBringhurst/my-very-first-refactor/main/README.md
    2.Open the `index.html` file in a web browser to view the website.
 
    ## Usage
